@@ -1,0 +1,57 @@
+project: 
+  type: website
+
+website:
+  title: "Data Access Workshop for NASA’s SWOT Satellite"
+  site-url: https://podaac.github.io/2024-SWOT-Hydro-Workshop/
+  repo-url: https://github.com/podaac/2024-SWOT-Hydro-Workshop
+  repo-actions: [edit, issue]
+  page-navigation: true
+  page-footer: "PO.DAAC (2024)."
+ 
+  navbar: 
+    background: primary
+    right: 
+      - sidebar:welcome
+      - icon: github
+        href: https://github.com/podaac/2024-SWOT-Hydro-Workshop
+ 
+  sidebar:
+    - id: welcome
+      title: "Menu"
+      logo: podaac-logo.png
+      style: "docked"
+      collapse-level: 1
+      align: left
+      contents:
+        - text: "Welcome"
+          href: index.md
+        - text: "Prerequisites"
+          href: prerequisites.md 
+        - text: "Schedule"
+          href: schedule.md
+        - text: "Slides"
+          href: slides.md
+        - section: "Tutorials"
+          contents: 
+            - text: "Search & Discovery"
+              href: 
+            - text: "Access, Subset & Plot"
+              href: 
+ #       - section: "Additional Resources"
+  #        contents:
+            
+
+format:
+  html:
+    theme:
+      light: sandstone
+      dark: [superhero, theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: styles.css
+    toc: true
+
+#filters:
+#  - include-files.lua
+#  - quarto

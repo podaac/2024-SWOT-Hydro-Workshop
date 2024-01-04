@@ -1,0 +1,12 @@
+ipynb_checkpoints
+*core.*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+.ipynb_checkpoints
+*_cache/
+_site/
+/_site/
