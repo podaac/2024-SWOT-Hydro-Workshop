@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "section": "",
+    "text": "Welcome to the 2024 Data Access Workshop for NASA’s SWOT Satellite hosted by PO.DAAC!\nThe workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "section": "",
+    "text": "Welcome to the 2024 Data Access Workshop for NASA’s SWOT Satellite hosted by PO.DAAC!\nThe workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "section": "About",
+    "text": "About\n\nWorkshop Goals\n\nProvide an inclusive place to learn about and experience working with NASA’s SWOT Hydrology Data;\nProvide strategies and best practices for finding and accessing NASA Earthdata in the Cloud. Specifically, participants will learn how to access data from AWS S3 buckets and have a better understanding of the Python ecosystem used to analyze the data depending on size and data formats;\nBetter understand the needs of Earthdata data scientists by providing a post survey and engaging in discussions with workshop participants;\nIdentify and practice using popular open source tools and utilities.\n\n\n\nWorkshop Description\nThe Surface Water and Ocean Topography (SWOT) satellite, a joint NASA-CNES venture, provides unprecedented measurements of surface water extents and elevations for hydrologic science and applications. The observations are offered through a range of data products including river and lake vector data in shapefiles, and raster, pixel cloud, and pixel vector data in netCDF. The shapefile products will also contain estimates of river discharge and lake storage change. In this pre-meeting workshop, participants will be introduced to SWOT and the various ways to access and utilize its data products, including via cloud computing, local download, and data transformation tools. Participants will be able to utilize a provided cloud computing environment accessed via personal laptops, or their own laptop’s compute power to explore SWOT data using data recipes by PO.DAAC, NASA’s Physical Oceanography Data Active Archive Center. No prior cloud computing experience is necessary. We welcome all to come and see how SWOT data could augment existing workflows or initiate new, innovative science and applications! The data tutorials at the workshop will use Python, but no prior experience is needed."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis Workshop and its content has been developed by a large team at PO.DAAC."
+  },
+  {
+    "objectID": "prerequisites.html",
+    "href": "prerequisites.html",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "An Earthdata Login account is required to access data, as well as discover restricted data, from the NASA Earthdata system. Thus, to access NASA data, you need Earthdata Login. Please visit https://urs.earthdata.nasa.gov to register and manage your Earthdata Login account. This account is free to create and only takes a moment to set up. Please remember your username and password!\n\n\n\nA GitHub account is required to gain access to the provided 2i2c cloud computing platform. Please visit https://github.com/join to register and create a free GitHub account. There was an opportunity to send in your GitHub username when you registered for the workshop, if you did not do so, please email cassandra.l.nickles@jpl.nasa.gov with your GitHub username and mention you are a participant for this workshop.\n\n\n\nParticipation in the exercises requires a laptop or tablet. Yes, a tablet works too! All participants will have access to a 2i2c Jupyter Lab instance running in AWS us-west 2."
+  },
+  {
+    "objectID": "prerequisites.html#before-the-workshop-you-will-need-the-following",
+    "href": "prerequisites.html#before-the-workshop-you-will-need-the-following",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "An Earthdata Login account is required to access data, as well as discover restricted data, from the NASA Earthdata system. Thus, to access NASA data, you need Earthdata Login. Please visit https://urs.earthdata.nasa.gov to register and manage your Earthdata Login account. This account is free to create and only takes a moment to set up. Please remember your username and password!\n\n\n\nA GitHub account is required to gain access to the provided 2i2c cloud computing platform. Please visit https://github.com/join to register and create a free GitHub account. There was an opportunity to send in your GitHub username when you registered for the workshop, if you did not do so, please email cassandra.l.nickles@jpl.nasa.gov with your GitHub username and mention you are a participant for this workshop.\n\n\n\nParticipation in the exercises requires a laptop or tablet. Yes, a tablet works too! All participants will have access to a 2i2c Jupyter Lab instance running in AWS us-west 2."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Workshop Slides",
+    "section": "",
+    "text": "TODO: embed slides"
+  },
+  {
+    "objectID": "slides.html#data-access-workshop-for-nasas-swot-satellite",
+    "href": "slides.html#data-access-workshop-for-nasas-swot-satellite",
+    "title": "Workshop Slides",
+    "section": "",
+    "text": "TODO: embed slides"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The Data Access Workshop for NASA’s SWOT Satellite will take place on Tuesday, February 13th from 9:00-12:30.\nNote, hands-on exercises will be executed from a Jupyter Lab instance in 2i2c. Click here to deploy the instance and simultaneously clone this GitHub repository to follow along with the tutorials. Please pass along your GitHub Username to get access."
+  },
+  {
+    "objectID": "schedule.html#workshop-schedule",
+    "href": "schedule.html#workshop-schedule",
+    "title": "Schedule",
+    "section": "Workshop Schedule",
+    "text": "Workshop Schedule\n\nFebruary 13th, 2024\n\n\n\nTime, HST (UTC-10)\nEvent\n\n\n\n\n\n9:00 am\nWelcome / Ice Breaker\n\n\n\n9:20 am\nIntroduction to SWOT\n\n\n\nam\nOrientation and setup in JupyterHub in the Cloud\n\n\n\nam\nTutorial:\n\n\n\nam\nBreak\n\n\n\nam\nTutorial:\n\n\n\nam\nQ & A\n\n\n\npm\nClosing Survey"
+  },
+  {
+    "objectID": "schedule.html#closing---close-out-your-jupyter-hub",
+    "href": "schedule.html#closing---close-out-your-jupyter-hub",
+    "title": "Schedule",
+    "section": "Closing - Close out your Jupyter Hub!",
+    "text": "Closing - Close out your Jupyter Hub!\n\nClose out your JupyterHub instance if you are finished for the day, following these instructions.\nYou will continue to have access to the 2i2c JupyterHub in AWS for two weeks following this Workshop. You may use that time on your own to continue work and learn more about migrating data access routines and science workflows to the cloud. This cloud compute environment is supported by the NASA Openscapes project.\n\n\nThank you!"
+  }
+]
