@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Data Access Workshop for NASA’s SWOT Satellite"
+  title: "2024 SWOT Pre-Conference Workshop: AGU Chapman"
   site-url: https://podaac.github.io/2024-SWOT-Hydro-Workshop/
   repo-url: https://github.com/podaac/2024-SWOT-Hydro-Workshop
   repo-actions: [edit, issue]
