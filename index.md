@@ -1,8 +1,8 @@
 ---
 title: "Data Access Workshop for NASA’s SWOT Satellite"
-subtitle: "An in person workshop at AGU Chapman: Remote Sensing of the Water Cycle"
+subtitle: "In person at AGU Chapman: Remote Sensing of the Water Cycle"
  
-author: "Cassie Nickles & Catalina Taglialatela"
+authors: "Cassie Nickles & Catalina Taglialatela"
 ---
 
 ## Welcome
@@ -19,7 +19,7 @@ Welcome to the **2024 Data Access Workshop for NASA’s SWOT Satellite** hosted 
 - Provide an inclusive place to learn about and experience working with NASA's SWOT Hydrology Data;
 - Provide strategies and best practices for finding and accessing NASA Earthdata in the Cloud. Specifically, participants will learn how to access data from AWS S3 buckets and have a better understanding of the Python ecosystem used to analyze the data depending on size and data formats; 
 - Better understand the needs of Earthdata data scientists by providing a post survey and engaging in discussions with workshop participants; 
-- Identify and practice using popular open source tools and utilities.
+- Practice using popular open source tools and utilities.
 
 
 ### Workshop Description
@@ -29,4 +29,4 @@ The Surface Water and Ocean Topography (SWOT) satellite, a joint NASA-CNES ventu
 
 ## Acknowledgements
 
-This Workshop and its content has been developed by a large team at PO.DAAC. 
+This Workshop and its content has been developed by the PO.DAAC team at NASA's Jet Propulsion Laboratory, California Institute of Technology. 
