@@ -13,13 +13,15 @@ title: Schedule
 | Time, HST (UTC-10) | Event |
 |------|-------|-------------------|
 | 9:00 am | Welcome / Ice Breaker |  
-| 9:20 am | Introduction to SWOT | 
-|  am | Orientation and setup in JupyterHub in the Cloud | 
-|  am | Tutorial: | 
-|  am | Break | 
-|  am | Tutorial: | 
-|  am | Q & A | 
-|  pm | Closing Survey | 
+| 9:15 am | Introduction to SWOT & PO.DAAC | 
+| 9:40 am | Earthdata Search Walkthrough | 
+| 10:00 am | Break | 
+| 10:10 am | Data Access Tutorials | 
+| 11:10 am | Break | 
+| 11:25 am | Transformation Tools | 
+| 11:45 am | Hydroweb.next Demo | 
+| 12:00 pm | Discussion & Feedback | 
+| 12:20 pm | Summary & Closing | 
 
 
 ## Closing - Close out your Jupyter Hub!
