@@ -34,9 +34,9 @@ website:
           href: slides.md
         - section: "Tutorials"
           contents: 
-            - text: "Search & Discovery"
-              href: 
-            - text: "Access, Subset & Plot"
+            - text: "Intro to HR Datasets"
+              href: Tutorials/SWOTHR_s3Access_real_data_v11.ipynb
+            - text: "Science Use Case"
               href: 
  #       - section: "Additional Resources"
   #        contents:

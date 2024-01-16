@@ -4,7 +4,7 @@ title: Schedule
 
 **The Data Access Workshop for NASA’s SWOT Satellite will take place on Tuesday, February 13th from 9:00-12:30**.   
 
-**Note,** hands-on exercises will be executed from a **Jupyter Lab instance in 2i2c.** [Click here to deploy the instance]() and simultaneously clone this GitHub repository to follow along with the tutorials. Please pass along your GitHub Username to get access.
+**Note,** hands-on exercises will be executed from a **Jupyter Lab instance in 2i2c.** [Click here to deploy the instance](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpodaac%2F2024-SWOT-Hydro-Workshop&urlpath=lab%2Ftree%2F2024-SWOT-Hydro-Workshop%2Findex.md&branch=main) and simultaneously clone this GitHub repository to follow along with the tutorials. Please pass along your GitHub Username to get access.
  
 ## Workshop Schedule 
 
