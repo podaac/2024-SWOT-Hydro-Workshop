@@ -16,9 +16,9 @@ title: Schedule
 | 9:15 am | Introduction to SWOT & PO.DAAC | 
 | 9:40 am | Earthdata Search Walkthrough | 
 | 10:00 am | Break | 
-| 10:10 am | Data Access Tutorials | 
+| 10:10 am | Data Access Tutorials: Subscriber/Downloader, `earthaccess`, in-cloud access, science example | 
 | 11:10 am | Break | 
-| 11:25 am | Transformation Tools | 
+| 11:25 am | Transformation Tools: Hydrocron Timeseries API, SWODLR raster on-demand | 
 | 11:45 am | Hydroweb.next Demo | 
 | 12:00 pm | Discussion & Feedback | 
 | 12:20 pm | Summary & Closing | 
