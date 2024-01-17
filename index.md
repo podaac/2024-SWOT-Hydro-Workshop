@@ -31,6 +31,7 @@ The Surface Water and Ocean Topography (SWOT) satellite, a joint NASA-CNES ventu
 - [PO.DAAC Cookbook: SWOT Chapter](https://podaac.github.io/tutorials/quarto_text/SWOT.html) - additional tutorials & tips
 - [SWOT Community GitHub](https://github.com/SWOT-community/SWOT-OpenToolkit) - more community contributions
 - [SWOT Product Description Documents](https://podaac.jpl.nasa.gov/SWOT?tab=datasets-information&sections=about) - pdfs embedded in the table
+- [PO.DAAC SWOT mission page](https://podaac.jpl.nasa.gov/SWOT)
 
 ## Acknowledgements
 
