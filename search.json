@@ -39,7 +39,7 @@
     "href": "schedule.html#workshop-schedule",
     "title": "Schedule",
     "section": "Workshop Schedule",
-    "text": "Workshop Schedule\n\nFebruary 13th, 2024\n\n\n\n\n\n\n\n\nTime, HST (UTC-10)\nEvent\n\n\n\n\n\n9:00 am\nWelcome / Ice Breaker\n\n\n\n9:15 am\nIntroduction to SWOT & PO.DAAC\n\n\n\n9:40 am\nEarthdata Search Walkthrough\n\n\n\n10:00 am\nBreak\n\n\n\n10:10 am\nData Access Tutorials: Subscriber/Downloader, earthaccess, in-cloud access, science example\n\n\n\n11:10 am\nBreak\n\n\n\n11:25 am\nTransformation Tools: Hydrocron Timeseries API, SWODLR raster on-demand\n\n\n\n11:45 am\nHydroweb.next Demo\n\n\n\n12:00 pm\nDiscussion & Feedback\n\n\n\n12:20 pm\nSummary & Closing"
+    "text": "Workshop Schedule\n\nFebruary 13th, 2024\n\n\n\n\n\n\n\n\nTime, HST (UTC-10)\nEvent\n\n\n\n\n\n9:00 am\nWelcome / Ice Breaker\n\n\n\n9:15 am\nIntroduction to SWOT & PO.DAAC\n\n\n\n9:45 am\nEarthdata Search Walkthrough\n\n\n\n10:05 am\nBreak\n\n\n\n10:15 am\nData Access Tutorials: Subscriber/Downloader, earthaccess, in-cloud access, science example\n\n\n\n11:15 am\nBreak\n\n\n\n11:30 am\nTransformation Tools: Hydrocron Timeseries API, SWODLR raster on-demand\n\n\n\n11:50 am\nHydroweb.next Demo\n\n\n\n12:00 pm\nDiscussion & Feedback\n\n\n\n12:20 pm\nSummary & Closing"
   },
   {
     "objectID": "schedule.html#closing---close-out-your-jupyter-hub",
