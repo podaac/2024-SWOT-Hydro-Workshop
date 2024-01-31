@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://podaac.github.io/2024-SWOT-Hydro-Workshop/index.html</loc>
-    <lastmod>2024-01-31T00:28:11.478Z</lastmod>
+    <lastmod>2024-01-31T18:05:31.941Z</lastmod>
   </url>
   <url>
     <loc>https://podaac.github.io/2024-SWOT-Hydro-Workshop/slides.html</loc>
-    <lastmod>2024-01-31T00:28:11.478Z</lastmod>
+    <lastmod>2024-01-31T18:05:31.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://podaac.github.io/2024-SWOT-Hydro-Workshop/Tutorials/SWOTHR_Science_Application.html</loc>
+    <lastmod>2024-01-31T18:05:31.901Z</lastmod>
   </url>
   <url>
     <loc>https://podaac.github.io/2024-SWOT-Hydro-Workshop/Tutorials/SWOTHR_s3Access_real_data_v11.html</loc>
-    <lastmod>2024-01-31T00:28:11.478Z</lastmod>
+    <lastmod>2024-01-31T18:05:31.941Z</lastmod>
   </url>
   <url>
     <loc>https://podaac.github.io/2024-SWOT-Hydro-Workshop/schedule.html</loc>
-    <lastmod>2024-01-31T00:28:11.478Z</lastmod>
+    <lastmod>2024-01-31T18:05:31.941Z</lastmod>
   </url>
   <url>
     <loc>https://podaac.github.io/2024-SWOT-Hydro-Workshop/prerequisites.html</loc>
-    <lastmod>2024-01-31T00:28:11.478Z</lastmod>
+    <lastmod>2024-01-31T18:05:31.941Z</lastmod>
   </url>
 </urlset>
