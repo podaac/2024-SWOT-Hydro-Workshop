@@ -10,8 +10,12 @@ An Earthdata Login account is required to access data, as well as discover restr
 
 ### 2. GitHub Account
 
-A GitHub account is required to gain access to the provided 2i2c cloud computing platform. Please visit [https://github.com/join](https://github.com/join) to register and create a free GitHub account. There was an opportunity to send in your GitHub username when you registered for the workshop, if you did not do so, please email cassandra.l.nickles@jpl.nasa.gov with your GitHub username and mention you are a participant for this workshop.  
+A GitHub account is required to gain access to the provided 2i2c cloud computing platform. Please visit [https://github.com/join](https://github.com/join) to register and create a free GitHub account. There was an opportunity to send in your GitHub username when you registered for the workshop, if you did not do so, please email cassandra.l.nickles@jpl.nasa.gov with your GitHub username and mention you are a participant for this workshop. If participants do not send their GitHub names, they will not be able to participate in the hands-on portion of the workshop in the cloud, but could follow along with the code rendered on this website. 
 
-### 3. Laptop or tablet
+*Note: you will receive an email from GitHub asking you to join the nasa-openscapes-workshops organization the morning of the workshop, please accept the invitation.*
 
-Participation in the exercises requires a laptop or tablet. Yes, a tablet works too! All participants will have access to a 2i2c Jupyter Lab instance running in AWS us-west 2.
+### 3. Fully charged laptop or tablet
+
+Participation in the exercises requires a laptop or tablet. Yes, a tablet works too! We have been notified there will not be power strips available in the venue, so please plan accordingly. The hands-on portion of the workshop lasts about an hour, so if battery life is a concern for the full workshop, please consider only using your laptop for the hands-on portion. All participants will have access in an internet browser to a cloud computing 2i2c Jupyter Lab instance running in AWS.
+
+
