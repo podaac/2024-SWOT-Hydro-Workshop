@@ -36,8 +36,8 @@ website:
           contents: 
             - text: "Intro to HR Datasets"
               href: Tutorials/SWOTHR_s3Access_real_data_v11.ipynb
-            - text: "Science Use Case"
-              href: 
+            - text: "Science Workflow"
+              href: Tutorials/SWOTHR_Science_Application.ipynb
  #       - section: "Additional Resources"
   #        contents:
             
