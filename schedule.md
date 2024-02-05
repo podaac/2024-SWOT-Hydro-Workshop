@@ -11,7 +11,7 @@ title: Schedule
 ### February 13th, 2024
 
 | Time, HST (UTC-10) | Event |
-|------|-------|-------------------|
+|------|------------------------------|
 | 9:00 am | Welcome / Ice Breaker |  
 | 9:15 am | Introduction to SWOT & PO.DAAC | 
 | 9:45 am | Earthdata Search Walkthrough | 
