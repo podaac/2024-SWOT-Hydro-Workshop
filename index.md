@@ -1,5 +1,5 @@
 ---
-title: "Data Access Workshop for NASA’s SWOT Satellite"
+title: "SWOT Data Access Workshop by NASA's PO.DAAC"
 subtitle: "In person at AGU Chapman: Remote Sensing of the Water Cycle"
  
 authors: "Cassie Nickles & Catalina Taglialatela"
@@ -7,7 +7,7 @@ authors: "Cassie Nickles & Catalina Taglialatela"
 
 ## Welcome
 
-Welcome to the **2024 Data Access Workshop for NASA’s SWOT Satellite** hosted by [PO.DAAC](https://podaac.jpl.nasa.gov/)!
+Welcome to the **2024 SWOT Data Access Workshop** hosted by [PO.DAAC](https://podaac.jpl.nasa.gov/)!
 
 **The workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI.**
 
@@ -16,7 +16,7 @@ Welcome to the **2024 Data Access Workshop for NASA’s SWOT Satellite** hosted 
 
 ### Workshop Goals
 
-- Provide an inclusive place to learn about and experience working with NASA's SWOT Hydrology Data;
+- Provide an inclusive place to learn about and experience working with SWOT's Hydrology Data;
 - Provide strategies and best practices for finding and accessing NASA Earthdata in the Cloud. Specifically, participants will learn how to access data from AWS S3 buckets and have a better understanding of the Python ecosystem used to analyze the data depending on size and data formats; 
 - Better understand the needs of Earthdata data scientists by providing a post survey and engaging in discussions with workshop participants; 
 - Practice using popular open source tools and utilities.
