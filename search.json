@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "title": "SWOT Data Access Workshop by NASA’s PO.DAAC",
     "section": "",
-    "text": "Welcome to the 2024 Data Access Workshop for NASA’s SWOT Satellite hosted by PO.DAAC!\nThe workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI.",
+    "text": "Welcome to the 2024 SWOT Data Access Workshop hosted by PO.DAAC!\nThe workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI.",
     "crumbs": [
       "Welcome"
     ]
@@ -12,9 +12,9 @@
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "title": "SWOT Data Access Workshop by NASA’s PO.DAAC",
     "section": "",
-    "text": "Welcome to the 2024 Data Access Workshop for NASA’s SWOT Satellite hosted by PO.DAAC!\nThe workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI.",
+    "text": "Welcome to the 2024 SWOT Data Access Workshop hosted by PO.DAAC!\nThe workshop will take place in person at the AGU Chapman: Remote Sensing of the Water Cycle Conference on Tuesday, February 13, 2024 from 9am-12:30pm in Honolulu, HI.",
     "crumbs": [
       "Welcome"
     ]
@@ -22,9 +22,9 @@
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "title": "SWOT Data Access Workshop by NASA’s PO.DAAC",
     "section": "About",
-    "text": "About\n\nWorkshop Goals\n\nProvide an inclusive place to learn about and experience working with NASA’s SWOT Hydrology Data;\nProvide strategies and best practices for finding and accessing NASA Earthdata in the Cloud. Specifically, participants will learn how to access data from AWS S3 buckets and have a better understanding of the Python ecosystem used to analyze the data depending on size and data formats;\nBetter understand the needs of Earthdata data scientists by providing a post survey and engaging in discussions with workshop participants;\nPractice using popular open source tools and utilities.\n\n\n\nWorkshop Description\nThe Surface Water and Ocean Topography (SWOT) satellite, a joint NASA-CNES venture, provides unprecedented measurements of surface water extents and elevations for hydrologic science and applications. The observations are offered through a range of data products including river and lake vector data in shapefiles, and raster, pixel cloud, and pixel vector data in netCDF. The shapefile products will also contain estimates of river discharge and lake storage change. In this pre-meeting workshop, participants will be introduced to SWOT and the various ways to access and utilize its data products, including via cloud computing, local download, and data transformation tools. Participants will be able to utilize a provided cloud computing environment accessed via personal laptops, or their own laptop’s compute power to explore SWOT data using data recipes by PO.DAAC, NASA’s Physical Oceanography Data Active Archive Center. No prior cloud computing experience is necessary. We welcome all to come and see how SWOT data could augment existing workflows or initiate new, innovative science and applications! The data tutorials at the workshop will use Python, but no prior experience is needed.\n\n\nAdditional SWOT Resources\n\nPO.DAAC Cookbook: SWOT Chapter - additional tutorials & tips\nSWOT Community GitHub - more community contributions\nSWOT Product Description Documents - pdfs embedded in the table\nPO.DAAC SWOT mission page",
+    "text": "About\n\nWorkshop Goals\n\nProvide an inclusive place to learn about and experience working with SWOT’s Hydrology Data;\nProvide strategies and best practices for finding and accessing NASA Earthdata in the Cloud. Specifically, participants will learn how to access data from AWS S3 buckets and have a better understanding of the Python ecosystem used to analyze the data depending on size and data formats;\nBetter understand the needs of Earthdata data scientists by providing a post survey and engaging in discussions with workshop participants;\nPractice using popular open source tools and utilities.\n\n\n\nWorkshop Description\nThe Surface Water and Ocean Topography (SWOT) satellite, a joint NASA-CNES venture, provides unprecedented measurements of surface water extents and elevations for hydrologic science and applications. The observations are offered through a range of data products including river and lake vector data in shapefiles, and raster, pixel cloud, and pixel vector data in netCDF. The shapefile products will also contain estimates of river discharge and lake storage change. In this pre-meeting workshop, participants will be introduced to SWOT and the various ways to access and utilize its data products, including via cloud computing, local download, and data transformation tools. Participants will be able to utilize a provided cloud computing environment accessed via personal laptops, or their own laptop’s compute power to explore SWOT data using data recipes by PO.DAAC, NASA’s Physical Oceanography Data Active Archive Center. No prior cloud computing experience is necessary. We welcome all to come and see how SWOT data could augment existing workflows or initiate new, innovative science and applications! The data tutorials at the workshop will use Python, but no prior experience is needed.\n\n\nAdditional SWOT Resources\n\nPO.DAAC Cookbook: SWOT Chapter - additional tutorials & tips\nSWOT Community GitHub - more community contributions\nSWOT Product Description Documents - pdfs embedded in the table\nPO.DAAC SWOT mission page",
     "crumbs": [
       "Welcome"
     ]
@@ -32,7 +32,7 @@
   {
     "objectID": "index.html#acknowledgements",
     "href": "index.html#acknowledgements",
-    "title": "Data Access Workshop for NASA’s SWOT Satellite",
+    "title": "SWOT Data Access Workshop by NASA’s PO.DAAC",
     "section": "Acknowledgements",
     "text": "Acknowledgements\nThis Workshop and its content has been developed by the PO.DAAC team at NASA’s Jet Propulsion Laboratory, California Institute of Technology.",
     "crumbs": [
